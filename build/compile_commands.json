@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/yloose/Projects/SnakeCubeSolver/build/src",
+  "command": "/usr/bin/c++  -I/home/yloose/Projects/SnakeCubeSolver/include  -o CMakeFiles/SnakeCube.dir/SnakeCube.cpp.o -c /home/yloose/Projects/SnakeCubeSolver/src/SnakeCube.cpp",
+  "file": "/home/yloose/Projects/SnakeCubeSolver/src/SnakeCube.cpp",
+  "output": "src/CMakeFiles/SnakeCube.dir/SnakeCube.cpp.o"
+},
+{
+  "directory": "/home/yloose/Projects/SnakeCubeSolver/build/src",
+  "command": "/usr/bin/c++  -I/home/yloose/Projects/SnakeCubeSolver/include  -o CMakeFiles/SnakeCube.dir/util.cpp.o -c /home/yloose/Projects/SnakeCubeSolver/src/util.cpp",
+  "file": "/home/yloose/Projects/SnakeCubeSolver/src/util.cpp",
+  "output": "src/CMakeFiles/SnakeCube.dir/util.cpp.o"
+}
+]
