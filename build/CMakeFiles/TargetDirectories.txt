@@ -1,5 +1,0 @@
-/home/yloose/Projects/SnakeCubeSolver/build/CMakeFiles/edit_cache.dir
-/home/yloose/Projects/SnakeCubeSolver/build/CMakeFiles/rebuild_cache.dir
-/home/yloose/Projects/SnakeCubeSolver/build/src/CMakeFiles/SnakeCube.dir
-/home/yloose/Projects/SnakeCubeSolver/build/src/CMakeFiles/edit_cache.dir
-/home/yloose/Projects/SnakeCubeSolver/build/src/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/SnakeCube.dir/SnakeCube.cpp.o CMakeFiles/SnakeCube.dir/util.cpp.o -o SnakeCube 
